@@ -1,3 +1,3 @@
 # Humanaut Health Demo
 
-npm run dev to start localhost:5173/
+npm run dev to start localhost:5173
